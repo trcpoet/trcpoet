@@ -22,9 +22,10 @@ I'm a **Full Stack Developer** passionate about building clean, functional appli
 
 ## 🚀 Featured Projects
 Check out my work:
-- **[Skinstric](https://github.com/trcpoet)** — A skin care solution
-- **[Nike eCommerce Clone](https://github.com/trcpoet)** — Full featured e-commerce platform
-- See more in my **[Portfolio](https://trcpoet.github.io)**
+- **[Skinstric](https://skinstric-orpin.vercel.app/)** — A skin care solution
+- **[Nike eCommerce](https://nike-ecom-store-phi.vercel.app/)** — Full featured e-commerce platform
+- **[FUN](https://fun-amber-mu.vercel.app/)** — Creative project
+- See more in my **[Portfolio](https://exclusive-eportfolio-one.vercel.app/)**
 
 ## 🎮 Beyond Code
 - ⚽ Playing football
