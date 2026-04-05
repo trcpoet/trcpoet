@@ -33,7 +33,7 @@ Check out my work:
 - 📝 Writing poetry
 
 ## 📫 Let's Connect
-- **Email:** tchowdhury29@gmail.com
+- **Email:** tahsin.chowdhury@mavs.uta.edu
 - **LinkedIn:** [LinkedIn Profile](https://linkedin.com)
 - **Portfolio:** [exclusive-eportfolio](https://trcpoet.github.io)
 
