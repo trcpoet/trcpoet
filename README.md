@@ -9,7 +9,7 @@ I'm a **Full Stack Developer** passionate about building clean, functional appli
 
 ## 💻 Tech Stack
 **Frontend & Full Stack:**
-- JavaScript, React, HTML/CSS
+- TypeScript, React 19, Next.js, Tailwind CSS, Supabase, Mapbox GL
 
 **Backend & Data:**
 - Node.js, Python, SQL
