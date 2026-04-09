@@ -1,42 +1,18 @@
-# Hey there! 👋
+# Tahsin Chowdhury
+Full Stack Developer | React 19 - Next.js - TypeScript - Node.js - PostgreSQL - Supabase
 
-I'm a **Full Stack Developer** passionate about building clean, functional applications and exploring AI. I love turning ideas into reality through code—whether that's recreating amazing websites or building from scratch.
+## What I build
+Production web applications - SaaS platforms, real-time geo apps, e-commerce stores, and AI-integrated frontends. Four shipped projects, all live.
 
-## 🔭 What I'm Working On
-- **Full Stack Projects** — end-to-end applications with solid architecture
-- **AI Projects** — exploring machine learning and intelligent systems
-- **Website Clones** — studying design and functionality of industry-leading sites
+## Featured projects
+- FUN - real-time pickup sports platform | React, TypeScript, Mapbox GL, Supabase Realtime, PostgreSQL | [Live](https://fun-one-sooty.vercel.app) | [Repo](https://github.com/trcpoet/FUN)
+- Summarist - SaaS learning platform | React, Firebase Auth, Stripe billing | [Live](CONFIRM_URL) | [Repo](https://github.com/trcpoet/Summarist)
+- Nike E-Commerce | Next.js, TypeScript, PostgreSQL, Drizzle ORM | [Live](https://nike-ecom-store-phi.vercel.app) | [Repo](https://github.com/trcpoet/nike-ecom-store)
+- Skinstric AI | React 19, Next.js, GSAP, ML microservices | [Live](https://skinstric-orpin.vercel.app) | [Repo](https://github.com/trcpoet/Skinstric)
 
-## 💻 Tech Stack
-**Frontend & Full Stack:**
-- TypeScript, React 19, Next.js, Tailwind CSS, Supabase, Mapbox GL
+## Stack
+React 19 - Next.js App Router - TypeScript - Node.js - PostgreSQL - Supabase - Firebase - Tailwind CSS - Drizzle ORM - Stripe - Mapbox GL - GSAP - Vercel
 
-**Backend & Data:**
-- Node.js, Python, SQL
-- Java, C (occasional use)
-
-**Focus Areas:**
-- Frontend development
-- Full stack architecture
-- SQL & data knowledge
-
-## 🚀 Featured Projects
-Check out my work:
-- **[Skinstric](https://skinstric-orpin.vercel.app/)** — A skin care solution
-- **[Nike eCommerce](https://nike-ecom-store-phi.vercel.app/)** — Full featured e-commerce platform
-- **[FUN](https://fun-amber-mu.vercel.app/)** — Creative project
-- See more in my **[Portfolio](https://exclusive-eportfolio-one.vercel.app/)**
-
-## 🎮 Beyond Code
-- ⚽ Playing football
-- 🎌 Anime enthusiast
-- 📝 Writing poetry
-
-## 📫 Let's Connect
-- **Email:** tahsin.chowdhury@mavs.uta.edu
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com)
-- **Portfolio:** [exclusive-eportfolio](https://trcpoet.github.io)
-
----
-
-*"Code is poetry in motion"* ✨
+## Contact
+tchowdhury29@gmail.com | linkedin.com/in/trcpoet
+<img width="468" height="308" alt="image" src="https://github.com/user-attachments/assets/c4b59ba4-9709-4eda-808b-6a661a753e72" />
