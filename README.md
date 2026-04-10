@@ -5,10 +5,10 @@ Full Stack Developer | React 19 - Next.js - TypeScript - Node.js - PostgreSQL - 
 Production web applications - SaaS platforms, real-time geo apps, e-commerce stores, and AI-integrated frontends. Four shipped projects, all live.
 
 ## Featured projects
-- FUN - real-time pickup sports platform | React, TypeScript, Mapbox GL, Supabase Realtime, PostgreSQL | [Live](https://fun-one-sooty.vercel.app) | [Repo](https://github.com/trcpoet/FUN)
-- Summarist - SaaS learning platform | React, Firebase Auth, Stripe billing | [Live](CONFIRM_URL) | [Repo](https://github.com/trcpoet/Summarist)
-- Nike E-Commerce | Next.js, TypeScript, PostgreSQL, Drizzle ORM | [Live](https://nike-ecom-store-phi.vercel.app) | [Repo](https://github.com/trcpoet/nike-ecom-store)
-- Skinstric AI | React 19, Next.js, GSAP, ML microservices | [Live](https://skinstric-orpin.vercel.app) | [Repo](https://github.com/trcpoet/Skinstric)
+- FUN - real-time pickup sports platform | React, TypeScript, Mapbox GL, Supabase Realtime, PostgreSQL | [Live](https://fun-amber-mu.vercel.app/) | [Repo](https://github.com/trcpoet/FUN)
+- Summarist - SaaS learning platform | React, Firebase Auth, Stripe billing | [Live](https://fes-internship-2-qztk.vercel.app/) | [Repo](https://github.com/trcpoet/Summarist)
+- Nike E-Commerce | Next.js, TypeScript, PostgreSQL, Drizzle ORM | [Live](https://nike-ecom-store-phi.vercel.app/) | [Repo](https://github.com/trcpoet/nike-ecom-store)
+- Skinstric AI | React 19, Next.js, GSAP, ML microservices | [Live](https://skinstric-orpin.vercel.app/) | [Repo](https://github.com/trcpoet/Skinstric)
 
 ## Stack
 React 19 - Next.js App Router - TypeScript - Node.js - PostgreSQL - Supabase - Firebase - Tailwind CSS - Drizzle ORM - Stripe - Mapbox GL - GSAP - Vercel
