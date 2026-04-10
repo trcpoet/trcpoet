@@ -14,5 +14,5 @@ Production web applications - SaaS platforms, real-time geo apps, e-commerce sto
 React 19 - Next.js App Router - TypeScript - Node.js - PostgreSQL - Supabase - Firebase - Tailwind CSS - Drizzle ORM - Stripe - Mapbox GL - GSAP - Vercel
 
 ## Contact
-tchowdhury29@gmail.com | linkedin.com/in/trcpoet
+tchowdhury29@gmail.com | tahsin.chowdhury@mavs.uta.edu | linkedin.com/in/trcpoet
 <img width="468" height="308" alt="image" src="https://github.com/user-attachments/assets/c4b59ba4-9709-4eda-808b-6a661a753e72" />
