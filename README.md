@@ -15,4 +15,3 @@ React 19 - Next.js App Router - TypeScript - Node.js - PostgreSQL - Supabase - F
 
 ## Contact
 tchowdhury29@gmail.com | tahsin.chowdhury@mavs.uta.edu | linkedin.com/in/trcpoet
-<img width="468" height="308" alt="image" src="https://github.com/user-attachments/assets/c4b59ba4-9709-4eda-808b-6a661a753e72" />
