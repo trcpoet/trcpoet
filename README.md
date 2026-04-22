@@ -1,5 +1,5 @@
 # Tahsin Chowdhury
-Full Stack Developer | React 19 - Next.js - TypeScript - Node.js - PostgreSQL - Supabase
+Full Stack Engineer | React 19 - Next.js - TypeScript - Node.js - PostgreSQL - Supabase
 
 ## What I build
 Production web applications - SaaS platforms, real-time geo apps, e-commerce stores, and AI-integrated frontends. Four shipped projects, all live.
